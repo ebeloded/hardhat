@@ -1,5 +1,13 @@
 # hardhat
 
+## 2.6.8
+
+### Patch Changes
+
+- 4ccd1f72: Enable solc's metadata by default (Thanks @chriseth!)
+- 4c7fe24e: Add support for Solidity 0.8.5.
+- d00a1a71: Print a warning in the node task if the default accounts are used.
+
 ## 2.6.7
 
 ### Patch Changes
